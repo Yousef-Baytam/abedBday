@@ -16,7 +16,7 @@ function WorldModel() {
         font="/Urbanist_Regular.json"
       >
         Happy Birthday Abed
-        <meshBasicMaterial />
+        <meshBasicMaterial color="#008bbf" />
       </Text3D>
     </primitive>
   );
